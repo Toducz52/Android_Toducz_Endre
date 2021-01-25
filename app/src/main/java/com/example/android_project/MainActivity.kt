@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         // Megjott a Linux.
         // Szeretem a fagyit.
+        // koszonom Istenem
 
     }
 }
